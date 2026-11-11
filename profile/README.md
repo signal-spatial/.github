@@ -12,6 +12,9 @@
   <a href="https://github.com/signal-spatial/signalspatial" target="_blank" rel="noopener noreferrer">
     <img alt="signal spatial" src="https://img.shields.io/badge/signal%20spatial-F0C419?style=for-the-badge" />
   </a>
+  <a href="https://www.google.com/maps/place/Chattanooga,+TN" target="_blank" rel="noopener noreferrer">
+    <img alt="Chattanooga, Tennessee" src="https://img.shields.io/badge/Chattanooga,%20Tennessee-1B4F72?style=for-the-badge" />
+  </a>
 </p>
 
 ## Welcome to the `signal_spatial` Hub
