@@ -9,6 +9,7 @@ The files here provide a consistent baseline for contributions, support, and aut
 | Path | Purpose |
 | --- | --- |
 | profile/README.md | The public-facing README for the `signal-spatial` organization. |
+| brand/ | Official signal_spatial colors (`brand/README.md`) and `brand/colors.css`. |
 | CONTRIBUTING.md | Default guide for how to contribute to our projects. |
 | CODE_OF_CONDUCT.md | Sets participation expectations for a positive community. |
 | SECURITY.md | Instructions for responsibly reporting security vulnerabilities. |
