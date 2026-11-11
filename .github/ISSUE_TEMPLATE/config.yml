@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: signal spatial
+    url: https://github.com/signal-spatial
+    about: General information about signal_spatial and its repositories.
