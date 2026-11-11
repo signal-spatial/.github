@@ -2,19 +2,19 @@
 
 This document defines standard operating procedures, environmental constraints, and coding standards for AI coding agents working in `signal_spatial` repositories.
 
-These instructions are intended for Codex in VS Code and may also be followed by other coding agents such as Cline or Gemini.
+These instructions are intended for Codex in Cursor and may also be followed by other coding agents such as Cline or Gemini.
 
 ## Primary Objective
 
 Make the smallest safe change that satisfies the user's request while preserving the existing repository structure, coding style, and documentation format.
 
-## VS Code Repository Access
+## Cursor Repository Access
 
-- Treat the currently opened VS Code workspace folder as the active repository.
+- Treat the currently opened Cursor workspace folder as the active repository.
 - Use repository-relative paths in all explanations and edits.
 - Prefer direct workspace file tools for reading, searching, creating, and editing files.
 - Use open editor tabs, selected text, and visible file context when available.
-- If a needed file is not visible or accessible through workspace file tools, ask the user to confirm that the correct folder is open in VS Code or to paste the relevant file contents.
+- If a needed file is not visible or accessible through workspace file tools, ask the user to confirm that the correct folder is open in Cursor or to paste the relevant file contents.
 - Do not invent file paths, repository structure, schemas, function names, or configuration values that have not been observed in the workspace or provided by the user.
 
 ## Working Guidelines
@@ -37,7 +37,7 @@ Make the smallest safe change that satisfies the user's request while preserving
 - **Direct File IO Only:** Use direct file-read, file-search, and file-write/edit tools for repository work.
 - **No Command-Based Verification:** Do not run commands such as `git diff`, `ls`, `cat`, `pwd`, `npm test`, `python`, `pytest`, `ruff`, `prettier`, or `markdownlint`.
 - **No Dependency Installation:** Do not install packages, extensions, CLIs, or system tools unless the user explicitly asks for instructions.
-- **Ask When Blocked:** If the required context cannot be accessed through VS Code file tools, ask the user for the exact path, file contents, schema, or error text.
+- **Ask When Blocked:** If the required context cannot be accessed through Cursor file tools, ask the user for the exact path, file contents, schema, or error text.
 
 ## File Editing Workflow
 
@@ -91,9 +91,9 @@ Make the smallest safe change that satisfies the user's request while preserving
 
 ## When Access Fails
 
-If repository files cannot be accessed or edited from Codex in VS Code:
+If repository files cannot be accessed or edited from Codex in Cursor:
 
-- Ask the user to confirm that VS Code is opened at the repository root, not a parent folder, child folder, or disconnected workspace.
+- Ask the user to confirm that Cursor is opened at the repository root, not a parent folder, child folder, or disconnected workspace.
 - Ask the user to open the target file in the editor or paste the relevant contents.
 - Continue using the provided content rather than attempting terminal workarounds.
 - Do not claim that files were changed unless a direct file-write/edit tool reported success.

@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2C4C,45:1B4F72,100:148F77&text=signal%20spatial&fontColor=F8FAFC&fontSize=42&fontAlignY=38&desc=maps%20and%20spatial%20data&descAlignY=58&descSize=20"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071626,45:0F2C4C,100:1B4F72&text=signal_spatial&fontColor=F8FAFC&fontSize=42&fontAlignY=38&desc=location-based%20software%20solutions&descAlignY=58&descSize=20"
     alt="signal spatial profile banner"
   />
 </p>
@@ -10,7 +10,7 @@
     <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-signal--spatial-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/signal-spatial/signalspatial" target="_blank" rel="noopener noreferrer">
-    <img alt="signal spatial" src="https://img.shields.io/badge/signal%20spatial-0F2C4C?style=for-the-badge" />
+    <img alt="signal spatial" src="https://img.shields.io/badge/signal%20spatial-F0C419?style=for-the-badge" />
   </a>
 </p>
 
@@ -26,6 +26,12 @@ Our mission is to:
 ## Our Work
 
 This organization is managed by Colin Stiles. For project questions, open an issue or email [colin@signalspatial.com](mailto:colin@signalspatial.com).
+
+<a href="https://challenge.colinstiles.com/2026/day-05.html">
+  <img src="https://challenge.colinstiles.com/2026/images/day-05.png" alt="View from the Cherokee Fire Tower. Opens the interactive Day 5 map." width="720">
+</a>
+
+**[View from the Cherokee Fire Tower](https://challenge.colinstiles.com/2026/day-05.html)** is the Day 5 map from the [30 Day Map Challenge](https://challenge.colinstiles.com): a 3D viewshed from Pinnacle Mountain Lookout on Buffalo Mountain. The picture opens the interactive map.
 
 ## Featured Repositories
 
@@ -57,6 +63,7 @@ Please review our **[Contributing Guidelines](https://github.com/signal-spatial/
 
 <p>
   <a href="https://github.com/signal-spatial" target="_blank" rel="noopener noreferrer"><img alt="GitHub" src="https://img.shields.io/badge/signal--spatial-0F2C4C?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="https://colinstiles.github.io/cts-gis-portfolio/" target="_blank" rel="noopener noreferrer"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0F2C4C?style=flat-square"></a>
+  <a href="https://colinstiles.github.io/cts-gis-portfolio/" target="_blank" rel="noopener noreferrer"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-F0C419?style=flat-square"></a>
+  <a href="https://challenge.colinstiles.com" target="_blank" rel="noopener noreferrer"><img alt="30 Day Map Challenge" src="https://img.shields.io/badge/30%20Day%20Map%20Challenge-1B4F72?style=flat-square"></a>
   <a href="https://www.linkedin.com/in/colin-t-stiles-gisp-386717292/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
 </p>
