@@ -19,7 +19,7 @@
 
 <p align="center">
   <img
-    src="/profile/assets/logo.jpg"
+    src="/profile/assets/logo.png"
     width="500"
     height="300"
     alt="signal_spatial"
