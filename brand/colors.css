@@ -1,0 +1,39 @@
+/* signal_spatial brand colors.
+   Dark blue, yellow, and gray. Import this file or copy the variables. */
+
+:root {
+  --ss-navy: #0F2C4C;
+  --ss-night: #071626;
+  --ss-harbor: #1B4F72;
+  --ss-yellow: #F0C419;
+  --ss-gold: #8C6A00;
+  --ss-graphite: #2A3138;
+  --ss-slate: #5E6A75;
+  --ss-mist: #E4E8EC;
+  --ss-paper: #F7F8FA;
+  --ss-white: #F8FAFC;
+
+  --ss-bg: var(--ss-paper);
+  --ss-bg-dark: var(--ss-night);
+  --ss-surface: var(--ss-navy);
+  --ss-text: var(--ss-graphite);
+  --ss-text-muted: var(--ss-slate);
+  --ss-text-on-dark: var(--ss-white);
+  --ss-accent: var(--ss-yellow);
+  --ss-accent-text: var(--ss-gold);
+  --ss-border: var(--ss-mist);
+  --ss-link: var(--ss-harbor);
+}
+
+body {
+  background: var(--ss-bg);
+  color: var(--ss-text);
+}
+
+a {
+  color: var(--ss-link);
+}
+
+a:hover {
+  color: var(--ss-navy);
+}
