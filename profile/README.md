@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2C4C,45:1B4F72,100:148F77&text=signal%20spatial&fontColor=F8FAFC&fontSize=42&fontAlignY=38&desc=maps%20%26%20spatial%20data&descAlignY=58&descSize=20"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2C4C,45:1B4F72,100:148F77&text=signal%20spatial&fontColor=F8FAFC&fontSize=42&fontAlignY=38&desc=maps%20and%20spatial%20data&descAlignY=58&descSize=20"
     alt="signal spatial profile banner"
   />
 </p>
