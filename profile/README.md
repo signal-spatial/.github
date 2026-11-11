@@ -17,6 +17,15 @@
   </a>
 </p>
 
+<p align="center">
+  <img
+    src="/profile/assets/logo.jpg"
+    width="500"
+    height="300"
+    alt="signal_spatial"
+  />
+</p>
+
 ## Welcome to the `signal_spatial` Hub
 
 This is the central GitHub space for `signal_spatial`, where we share maps, apps, and open-source code to the greater geospatial community.
