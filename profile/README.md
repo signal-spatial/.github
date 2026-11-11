@@ -33,7 +33,7 @@ Here are a few of our key open-source projects.
 
 | Repository | Description |
 | :--- | :--- |
-| **[ss-template](https://github.com/signal-spatial/ss-template)** | Our standard project template for reproducible GIS and data science work. |
+| **[signal-template](https://github.com/signal-spatial/signal-template)** | Our standard project template for reproducible GIS and data science work. |
 | **[signalspatial](https://github.com/signal-spatial/signalspatial)** | The signal spatial website. |
 | **[.github](https://github.com/signal-spatial/.github)** | The central repository for our organization's community health files and templates. |
 
